@@ -2,5 +2,9 @@
   {
     "id": 0,
     "idea": "Body Following Drone"
+   },
+   {
+    "id": 1,
+    "idea": "House Price Prediction"
    }
 ]
