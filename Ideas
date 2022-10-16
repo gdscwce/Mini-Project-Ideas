@@ -1,401 +1,395 @@
 [
-    {
-     "id": 0,
-     "idea": "Body Following Drone"
-    },
-    {
-     "id": 169,
-     "idea": "ReachUs _service Provider Android Application"
-    },
-    {
-     "id": 1,
-     "idea": "Distributed Point of Sale System"
-    }, 
-    {
-     "id": 2,
-     "idea": "Face ditection portal"
-    },
-    {
-     "id": 3,
-     "idea": "Ride Sharing System using blockchain"
-    },
-    {
-     "id": 4,
-     "idea": "Augmented Reality Maps"
-    },
-    {
-     "id": 5,
-     "idea": "Soil moisture detector"
-    },
-    {
-     "id": 6,
-     "idea": "Attendance using QR-Code"
-    },
-    {
-     "id": 7,
-     "idea": "Vibration Analysis"
-     },
-    {
-     "id": 8,
-     "idea": "Twitter clone "
-    },
-    {
-     "id": 9,
-     "idea": "Disaster Management using jerks"
-    },
-    {
-     "id": 10,
-     "idea": "Attendence Management System"
-    },
-    {
-     "id": 11,
-     "idea": "EaseLearn"
-    },
-    {
-     "id": 12,
-     "idea": "System.info"
-    },
-    {
-     "id": 13,
-     "idea": "smart Irrigation System"
-    },
-    {
-     "id": 14,
-     "idea": "Personal AI Trainer"
-    },
-    {
-     "id": 15,
-     "idea": "Criminal detection using Machine learning"
-    },
-    {
-     "id": 16,
-     "idea": "Payroll Management System"
-    },
-    {
-     "id": 17,
-     "idea": "Instagram Clone"
-    },
-    {
-     "id": 18,
-     "idea": "Sentimental Analysis"
-    },
-    {
-     "id": 19,
-     "idea": "Github clone"
-    },
-    {
-     "id": 20,
-     "idea": "WCE E-Colab"
-    },
-    {
+  {
+    "id": 0,
+    "idea": "Body Following Drone"
+  },
+  {
+    "id": 169,
+    "idea": "ReachUs _service Provider Android Application"
+  },
+  {
+    "id": 1,
+    "idea": "Distributed Point of Sale System"
+  },
+  {
+    "id": 2,
+    "idea": "Face ditection portal"
+  },
+  {
+    "id": 3,
+    "idea": "Ride Sharing System using blockchain"
+  },
+  {
+    "id": 4,
+    "idea": "Augmented Reality Maps"
+  },
+  {
+    "id": 5,
+    "idea": "Soil moisture detector"
+  },
+  {
+    "id": 6,
+    "idea": "Attendance using QR-Code"
+  },
+  {
+    "id": 7,
+    "idea": "Vibration Analysis"
+  },
+  {
+    "id": 8,
+    "idea": "Twitter clone "
+  },
+  {
+    "id": 9,
+    "idea": "Disaster Management using jerks"
+  },
+  {
+    "id": 10,
+    "idea": "Attendence Management System"
+  },
+  {
+    "id": 11,
+    "idea": "EaseLearn"
+  },
+  {
+    "id": 12,
+    "idea": "System.info"
+  },
+  {
+    "id": 13,
+    "idea": "smart Irrigation System"
+  },
+  {
+    "id": 14,
+    "idea": "Personal AI Trainer"
+  },
+  {
+    "id": 15,
+    "idea": "Criminal detection using Machine learning"
+  },
+  {
+    "id": 16,
+    "idea": "Payroll Management System"
+  },
+  {
+    "id": 17,
+    "idea": "Instagram Clone"
+  },
+  {
+    "id": 18,
+    "idea": "Sentimental Analysis"
+  },
+  {
+    "id": 19,
+    "idea": "Github clone"
+  },
+  {
+    "id": 20,
+    "idea": "WCE E-Colab"
+  },
+  {
     "id": 21,
     "idea": "PC Based GPS"
-    },
-    {
+  },
+  {
     "id": 22,
     "idea": " Baby Cloud"
-    },
-    {
+  },
+  {
     "id": 23,
     "idea": "Augmented ecommerce website to visualize products before buying"
-    },
-    {
+  },
+  {
     "id": 24,
     "idea": "Platform for skilled labour who work on daily wages like linkedin "
-    },
-    {
-     "id": 25,
-     "idea": "headphone jack in smartphones"
-    },
-    {
-     "id": 26,
-     "idea": "Portable Attendance System using IOT"
-    },
-    {
-      "id": 27,
-      "idea":"Note taking App"
-    },
-    {
-    "id": 28,
-     "idea": "Parallel Algorithm Visualizer"
-    },
-    {
-     "id": 29,
-     "idea": "Project Manajment system"
-    },
-    {
-     "id": 30,
-     "idea": "Whatsapp bot"
-    },
-    {
-     "id": 31,
-     "idea": "Google maps clone for college campus navigation"
-    },
-    {
-     "id": 32,
-     "idea": "Subjective Answer Evaluation using Natural Language Processing"
-    },
-    {
-     "id": 33,
-     "idea": "Online exam portal using blockchain technolgy"
-    },
-    {
-     "id": 34,
-     "idea": "land registry system using blockchain"
-    },
-    {
-     "id": 35,
-     "idea": "Count of people using drone technology"
-    },
-    {
-     "id": 36,
-     "idea": "Fake Logo Detector"
-    },
-    {
-     "id": 37,
-     "idea": "Ordering food in hotel through software and billit it automatically"
-    },
-    {
-       "id": 38,
-       "idea": "Face Mask Detection"
-    },
-    {
-      "id": 39,
-      "idea": "Baby Cloud"
   },
-    {
-     "id": 40,
-     "idea": "House Price Prediction according to locality"
-    },
-    {
-     "id": 41,
-     "idea": "Smart Home Using Arduino"
-    },
-   {
-     "id": 42,
-     "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
-   },
   {
-     "id": 43,
-     "idea": "App based on flutter for workers to list on platform"
-    },
-    {
+    "id": 25,
+    "idea": "headphone jack in smartphones"
+  },
+  {
+    "id": 26,
+    "idea": "Portable Attendance System using IOT"
+  },
+  {
+    "id": 27,
+    "idea": "Note taking App"
+  },
+  {
+    "id": 28,
+    "idea": "Parallel Algorithm Visualizer"
+  },
+  {
+    "id": 29,
+    "idea": "Project Manajment system"
+  },
+  {
+    "id": 30,
+    "idea": "Whatsapp bot"
+  },
+  {
+    "id": 31,
+    "idea": "Google maps clone for college campus navigation"
+  },
+  {
+    "id": 32,
+    "idea": "Subjective Answer Evaluation using Natural Language Processing"
+  },
+  {
+    "id": 33,
+    "idea": "Online exam portal using blockchain technolgy"
+  },
+  {
+    "id": 34,
+    "idea": "land registry system using blockchain"
+  },
+  {
+    "id": 35,
+    "idea": "Count of people using drone technology"
+  },
+  {
+    "id": 36,
+    "idea": "Fake Logo Detector"
+  },
+  {
+    "id": 37,
+    "idea": "Ordering food in hotel through software and billit it automatically"
+  },
+  {
+    "id": 38,
+    "idea": "Face Mask Detection"
+  },
+  {
+    "id": 39,
+    "idea": "Baby Cloud"
+  },
+  {
+    "id": 40,
+    "idea": "House Price Prediction according to locality"
+  },
+  {
+    "id": 41,
+    "idea": "Smart Home Using Arduino"
+  },
+  {
+    "id": 42,
+    "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+  },
+  {
+    "id": 43,
+    "idea": "App based on flutter for workers to list on platform"
+  },
+  {
     "id": 44,
     "idea": "Weather app"
-    },
-   {
-   "id": 45,
-   "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
-   },
-   {
-     "id": 46,
-     "idea": "Elections using blockchain"
-   },
-   {
+  },
+  {
+    "id": 45,
+    "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+  },
+  {
+    "id": 46,
+    "idea": "Elections using blockchain"
+  },
+  {
     "id": 47,
     "idea": "Augmented ecommerce website to visualize products before buying"
-    },
-    {
-     "id": 48,
-     "idea": "Notice Board"
   },
-    {
-     "id": 49,
-     "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
-    },
-    {
-     "id": 50,
-     "idea": "global warming on earth:one of the serious issue"
-    },
   {
-     "id": 51,
-     "idea": "Human Pose Detection"
-   },
+    "id": 48,
+    "idea": "Notice Board"
+  },
   {
-     "id": 52,
-     "idea": "plastic is it useful or harmful"
-    },
-    {
-     "id": 53,
-     "idea": "global warming on earth:one of the serious issue"
-    },
+    "id": 49,
+    "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"
+  },
+  {
+    "id": 50,
+    "idea": "global warming on earth:one of the serious issue"
+  },
+  {
+    "id": 51,
+    "idea": "Human Pose Detection"
+  },
+  {
+    "id": 52,
+    "idea": "plastic is it useful or harmful"
+  },
+  {
+    "id": 53,
+    "idea": "global warming on earth:one of the serious issue"
+  },
   {
     "id": 54,
     "ideas": "Web Scrapping IMDB website"
-    },
-    
-    {
-     "id": 55,
-     "idea": "Sentiment analysis through face recognition using open CV"  
   },
   {
-     "id": 56,
-     "idea": "Ordering food in hotel through software and billit it automatically"
-    },
-    {
-     "id": 57,
-      "ideas": "Baby Cloud"
-    },
-    {
-      "id": 58,
-      "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+    "id": 55,
+    "idea": "Sentiment analysis through face recognition using open CV"
   },
   {
-     "id": 59,
-     "idea": "Mess management System"
+    "id": 56,
+    "idea": "Ordering food in hotel through software and billit it automatically"
   },
   {
-     "id": 60,
-     "ideas": "Accident Avoidation using IOT and ML"
+    "id": 57,
+    "ideas": "Baby Cloud"
   },
   {
-      "id": 61,
-      "ideas": "face id attendence system"
-   },
-  
-  {   "id": 62,
-     "idea": "Network Traffic Analyser"
+    "id": 58,
+    "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+  },
+  {
+    "id": 59,
+    "idea": "Mess management System"
+  },
+  {
+    "id": 60,
+    "ideas": "Accident Avoidation using IOT and ML"
+  },
+  {
+    "id": 61,
+    "ideas": "face id attendence system"
+  },
+  {
+    "id": 62,
+    "idea": "Network Traffic Analyser"
   },
   {
     "id": 63,
     "ideas": "Web Scrapping IMDB website"
-    },
-    {
-     "id": 64,
-     "idea": "Sentiment analysis through face recognition using open CV"  
+  },
+  {
+    "id": 64,
+    "idea": "Sentiment analysis through face recognition using open CV"
   },
   {
     "id": 65,
     "ideas": "Water Management System"
-    },
+  },
   {
     "id": 66,
     "ideas": "Mathematical expressions parser and evaluator"
-    },
-    {
+  },
+  {
     "id": 67,
     "ideas": "Campus Navigation"
-    },
-  
+  },
   {
     "id": 68,
     "ideas": "travel website using blockchain"
   },
-    {
+  {
     "id": 69,
     "ideas": "App based on event management for organization"
-    },
-    {
+  },
+  {
     "id": 70,
     "idea": "Placement Automation System for college"
-  
-    },
-    {
+  },
+  {
     "id": 71,
     "idea": "app for farmers about market rates of any vegetable all over nation"
-    },
-    {
+  },
+  {
     "id": 72,
     "idea": "Weather Prediction"
-    },
-    {
-  "id": 76,
-  "idea": "Ecommerce Price Tracking System"
   },
   {
-  "id": 77,
-  "idea": "Resume Builder Application"
+    "id": 76,
+    "idea": "Ecommerce Price Tracking System"
   },
   {
-  "id": 78,
-  "idea": "Encripted Chat Application"
+    "id": 77,
+    "idea": "Resume Builder Application"
   },
   {
-  "id": 79,
-  "idea": "Gym Management System"
+    "id": 78,
+    "idea": "Encripted Chat Application"
   },
   {
-  "id": 80,
-  "idea": "Spam main Prediction"
+    "id": 79,
+    "idea": "Gym Management System"
   },
   {
-  "id": 81,
-  "idea": "Video Chat Application"
+    "id": 80,
+    "idea": "Spam main Prediction"
   },
   {
-  "id": 82,
-  "idea": "Learning Management System"
+    "id": 81,
+    "idea": "Video Chat Application"
   },
   {
-  "id": 83,
-  "idea": "Voice to text translator"
+    "id": 82,
+    "idea": "Learning Management System"
   },
   {
-  "id": 84,
-  "idea": "Chatbot"
+    "id": 83,
+    "idea": "Voice to text translator"
   },
   {
-  "id": 85,
-  "idea": "Algorithms Visualizer"
-  },
-{
-  "id": 86,
-  "idea": "Sonar water level meter"
+    "id": 84,
+    "idea": "Chatbot"
   },
   {
-  "id": 87,
-  "idea": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
-  },
-{
-  "id": 88,
-  "idea": "Dream 11 Team Prediction using legacy data"
-  },
-   {
-  "id": 89,
-  "idea": "Home Automation Using Arduino"
-  },
-
-  {
-  "id": 90,
-  "idea": "Health care system using esp32 and iot"
+    "id": 85,
+    "idea": "Algorithms Visualizer"
   },
   {
-
-  "id": 91,
-  "idea": "Web Scraping data from website using code."
-  },
-    {
-
-  "id": 92,
-  "idea": "Smart Plant watering system using IOT and ML"
-  },
-    {
-  "id": 93,
-  "idea": "Private VPN server by using RasberryPi"
-  },
-    {
-  "id": 94,
-  "idea": "Street Dog Charity Donation Site"
-},
-  {
-  "id": 95,
-  "ideas": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
+    "id": 86,
+    "idea": "Sonar water level meter"
   },
   {
-  "id": 96,
-  "ideas": "message encryption and decryption in secret code"
-},
- {
-  "id": 97,
-  "idea": "Mini conveyor belt using geneva mechanism"
-  },  
-  {
-  "id": 98,
-  "idea": "LPG Leakage detector"
+    "id": 87,
+    "idea": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
   },
-   {
-  "id": 99,
-  "idea": "Variable height street lamp"
+  {
+    "id": 88,
+    "idea": "Dream 11 Team Prediction using legacy data"
+  },
+  {
+    "id": 89,
+    "idea": "Home Automation Using Arduino"
+  },
+  {
+    "id": 90,
+    "idea": "Health care system using esp32 and iot"
+  },
+  {
+    "id": 91,
+    "idea": "Web Scraping data from website using code."
+  },
+  {
+    "id": 92,
+    "idea": "Smart Plant watering system using IOT and ML"
+  },
+  {
+    "id": 93,
+    "idea": "Private VPN server by using RasberryPi"
+  },
+  {
+    "id": 94,
+    "idea": "Street Dog Charity Donation Site"
+  },
+  {
+    "id": 95,
+    "ideas": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
+  },
+  {
+    "id": 96,
+    "ideas": "message encryption and decryption in secret code"
+  },
+  {
+    "id": 97,
+    "idea": "Mini conveyor belt using geneva mechanism"
+  },
+  {
+    "id": 98,
+    "idea": "LPG Leakage detector"
+  },
+  {
+    "id": 99,
+    "idea": "Variable height street lamp"
   },
   {
     "id": 100,
@@ -421,6 +415,8 @@
       "id": 105,
       "ideas": "PPE Detection, License Plate number detection"
   },
-
+{
+   "id": 106,
+   "ideas": "T-Rex Game (Dinosaur Game)"
+  }
   ]
-
