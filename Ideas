@@ -394,25 +394,29 @@
   {
     "id": 100,
     "idea": "Mathematical expressions parser and evaluator"
+    },
+     {
+     "id": 101,
+     "idea": "Hunger relief System"
+    },
+  {
+     "id":102 ,
+     "idea": "AI Detection For Human Evolution"
+   },
+  {
+ "id": 103,
+  "ideas": "Online Newspaper Distribution System"
   },
   {
-    "id": 101,
-    "idea": "Hunger relief System"
+      "id": 104,
+      "ideas": "stock trading automated buy and sell"
   },
   {
-    "id": 102,
-    "idea": "AI Detection For Human Evolution"
+      "id": 105,
+      "ideas": "PPE Detection, License Plate number detection"
   },
-  {
-    "id": 103,
-    "ideas": "Online Newspaper Distribution System"
-  },
-  {
-    "id": 104,
-    "ideas": "stock trading automated buy and sell"
-  },
-  {
-   "id": 105,
+{
+   "id": 106,
    "ideas": "T-Rex Game (Dinosaur Game)"
   }
-]
+  ]
