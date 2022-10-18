@@ -335,4 +335,8 @@
 		"id":81,
 		"idea": "Designing a car having four wheel steering mechanism"   
 	},
+	{
+	        "id":82,
+		"idea":"alzheimer disease detection using CNN" 
+	},
 ]
