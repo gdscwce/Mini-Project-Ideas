@@ -3,17 +3,14 @@
      "id": 0,
      "idea": "Body Following Drone"
     },
-    {
-     "id": 169,
-     "idea": "ReachUs _service Provider Android Application"
-    },
+   
     {
      "id": 1,
      "idea": "Distributed Point of Sale System"
     }, 
     {
      "id": 2,
-     "idea": "Face ditection portal"
+     "idea": "Face detection portal"
     },
     {
      "id": 3,
@@ -423,8 +420,16 @@
   },
   {
       "id": 106,
-      "ideas": "app for blind peoples which will have books in audio foramt"
+      "ideas": "app for blind peoples which will have books in audio format"
   },
+  {
+    "id": 107,
+    "ideas": "A device that will project your dreams on computer screen"
+},
+{
+  "id": 108,
+  "idea": "ReachUs _service Provider Android Application"
+ }
 
   ]
 
